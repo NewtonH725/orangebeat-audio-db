@@ -1,0 +1,21 @@
+{
+  "TECHNO": [],
+  "DUBSTEP": [
+    {
+      "id": "dubstep_01",
+      "genre": "DUBSTEP",
+      "bpm": 133,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/dubstep_01.mp3"
+    },
+    {
+      "id": "dubstep_02",
+      "genre": "DUBSTEP",
+      "bpm": 150,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/dubstep_02.mp3"
+    }
+  ],
+  "ROCK": [],
+  "MOTIVATIONAL": []
+}
