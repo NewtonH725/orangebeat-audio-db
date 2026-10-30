@@ -1,9 +1,10 @@
 {
+  "version": 2,
   "TECHNO": [
     {
       "id": "techno_01",
       "genre": "TECHNO",
-      "bpm": 150,
+      "bpm": 171,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/techno_01.mp3"
     },
@@ -17,14 +18,14 @@
     {
       "id": "techno_03",
       "genre": "TECHNO",
-      "bpm": 133,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/techno_03.mp3"
     },
     {
       "id": "techno_04",
       "genre": "TECHNO",
-      "bpm": 171,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/techno_04.mp3"
     },
@@ -40,14 +41,14 @@
     {
       "id": "dubstep_01",
       "genre": "DUBSTEP",
-      "bpm": 150,
+      "bpm": 171,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/dubstep_01.mp3"
     },
     {
       "id": "dubstep_02",
       "genre": "DUBSTEP",
-      "bpm": 171,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/dubstep_02.mp3"
     },
@@ -61,14 +62,14 @@
     {
       "id": "dubstep_04",
       "genre": "DUBSTEP",
-      "bpm": 171,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/dubstep_04.mp3"
     },
     {
       "id": "dubstep_05",
       "genre": "DUBSTEP",
-      "bpm": 171,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/dubstep_05.mp3"
     }
@@ -77,72 +78,109 @@
     {
       "id": "rock_01",
       "genre": "ROCK",
-      "bpm": 133,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/rock_01.mp3"
     },
     {
       "id": "rock_02",
       "genre": "ROCK",
-      "bpm": 171,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/rock_02.mp3"
     },
     {
       "id": "rock_03",
       "genre": "ROCK",
-      "bpm": 133,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/rock_03.mp3"
     },
     {
       "id": "rock_04",
       "genre": "ROCK",
-      "bpm": 150,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/rock_04.mp3"
     },
     {
       "id": "rock_05",
       "genre": "ROCK",
-      "bpm": 120,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/rock_05.mp3"
+    }
+  ],
+  "METAL": [
+    {
+      "id": "metal_01",
+      "genre": "METAL",
+      "bpm": 171,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/metal_01.mp3"
+    },
+    {
+      "id": "metal_02",
+      "genre": "METAL",
+      "bpm": 200,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/metal_02.mp3"
+    },
+    {
+      "id": "metal_03",
+      "genre": "METAL",
+      "bpm": 133,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/metal_03.mp3"
+    },
+    {
+      "id": "metal_04",
+      "genre": "METAL",
+      "bpm": 150,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/metal_04.mp3"
+    },
+    {
+      "id": "metal_05",
+      "genre": "METAL",
+      "bpm": 133,
+      "durationMs": 65000,
+      "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/metal_05.mp3"
     }
   ],
   "MOTIVATIONAL": [
     {
       "id": "motiv_01",
       "genre": "MOTIVATIONAL",
-      "bpm": 150,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/motiv_01.mp3"
     },
     {
       "id": "motiv_02",
       "genre": "MOTIVATIONAL",
-      "bpm": 171,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/motiv_02.mp3"
     },
     {
       "id": "motiv_03",
       "genre": "MOTIVATIONAL",
-      "bpm": 150,
+      "bpm": 171,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/motiv_03.mp3"
     },
     {
       "id": "motiv_04",
       "genre": "MOTIVATIONAL",
-      "bpm": 133,
+      "bpm": 150,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/motiv_04.mp3"
     },
     {
       "id": "motiv_05",
       "genre": "MOTIVATIONAL",
-      "bpm": 150,
+      "bpm": 133,
       "durationMs": 65000,
       "url": "https://raw.githubusercontent.com/NewtonH725/orangebeat-audio-db/main/tracks/motiv_05.mp3"
     }
